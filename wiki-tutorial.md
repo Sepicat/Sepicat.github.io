@@ -31,13 +31,17 @@ layout: default
 
 <img src="images/deep-link.png" />
 
-#### 3. 给 Sepicat 提建(xu)议(qiu)
+#### 3. 使用 Flowercat 定制你喜欢的 Theme
+
+查看 [Sepicat/Flowercat](https://github.com/Sepicat/Flowercat) 仓库，可知晓具体玩法。等待身为 Geek 的你的优质作品！
+
+#### 4. 给 Sepicat 提建(xu)议(qiu)
 
 <img src="images/issues.png" />
 
 如果你对于 Sepicat 有更多好的提议，欢迎在工具页中的 Issue 入口中为 Sepicat 献出更好的创意。Sepicat 希望打造移动浏览 Github 时最好的体验，其一切的宗旨在于探索与发现更多好玩的 Repo，并让你及时的掌握其最新的动态。
 
-#### 4. 感谢以下技术大牛为 Sepicat 开发提供了支持
+#### 5. 感谢以下技术大牛为 Sepicat 开发提供了支持
 
 * [Seahub](https://github.com/seahub) - 腾讯 iOS 工程师，为 Sepicat 贡献了部分源码；
 * [jkpang](https://github.com/jkpang) - [PPhub](https://itunes.apple.com/cn/app/pphub-for-github/id1314212521?mt=8) 作者，为 Sepicat 贡献了很多实现思路；
